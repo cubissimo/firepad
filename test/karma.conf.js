@@ -33,6 +33,7 @@ module.exports = function(config) {
       "../lib/text-operation.js",
       "../lib/cursor.js",
       "../lib/firebase-adapter.js",
+      "../lib/wrapped-operation.js",
       "../lib/undo-manager.js",
       "../lib/client.js",
       "../lib/editor-client.js",
